@@ -14,12 +14,14 @@ Vous recevrez un mail avec un lien du type :
   https://www.maplesoft.com/InstantEvalConfirmation/index.aspx?key=<key>&s=3
 ```
 
-Suivez le lien. Sur la page qui s'affiche, on vous donne une clef valable 15 jours : prennez-en note. Si vous avez déjà téléchargé Maple, ne le retéléchargez pas.
+Attention, `<key>` n'est pas la clef d'activation.
+
+Suivez le lien. Sur la page qui s'affiche, on vous donne une clef d'activation valable 15 jours : prennez-en note. Si vous avez déjà téléchargé Maple, ne le retéléchargez pas.
 
 # 3. Activation
 Après téléchargement, lancez Maple et saisissez votre clef ainsi que les informations d'identité que vous aviez saisies pour vous inscrire.
 
-Si vous avez déjà Maple installé, lancez-le et saisissez votre clef. Corrigez éventuellement vos informations d'identité.
+Si vous avez déjà Maple installé, lancez-le et saisissez votre clef d'activation. Corrigez éventuellement vos informations d'identité.
 
 Maple est prêt à être lancé.
 
@@ -27,6 +29,6 @@ Maple est prêt à être lancé.
 
 Il faut être connecté à internet pendant toute la manipulation.
 
-Si vous rencontrez un problème sur le site, essayez de changer de navigateur, de désactiver les extensions de type vie-privée (adblocker, cookie removers, header patchers, etC.).
+Si vous rencontrez un problème sur le site, essayez de changer de navigateur, de désactiver les extensions de type vie-privée (adblocker, cookie removers, header patchers, etc.). Vous pouvez également tenter de supprimer vos cookies et le cache du navigateur (ce qui devrait être facultatif en mode privé).
 
-Après avoir cliqué sur le lien, vous recevez également la clef licence par mail.
+Après avoir cliqué sur le lien, vous recevez également la clef d'activation par mail.
